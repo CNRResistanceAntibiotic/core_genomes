@@ -1,3 +1,4 @@
-Name,Sub-folder,Species,Reference
-ecoli,cgmlst-org,Escherichia coli,cgmlst.org
-kaerogenes,cnr,Klebsiella aerogenes,CNR
+Name,Sub-folder,Species,Reference,Comment
+ecoli,cgmlst-org,Escherichia coli,cgmlst.org,
+kaerogenes,cnr,Klebsiella aerogenes,CNR,Made with Roary (with 238 genomes)
+cfreundii,cnr,Citrobacter freundii,CNR,Made with Roary (with 175 genomes)
