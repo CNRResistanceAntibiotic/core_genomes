@@ -2,7 +2,7 @@ Name,Sub-folder,Species,Reference,Comment
 ecoli,cgmlst-org,Escherichia coli,cgmlst.org,
 kaerogenes,cnr,Klebsiella aerogenes,CNR,Made with Roary (with 238 genomes)
 cfreundii,cnr,Citrobacter freundii,CNR,Made with Roary (with 175 genomes)
-abaumannii,cgmlst-org,Acinetobacter baumannii,,
+abaumannii,cgmlst-org,Acinetobacter baumannii,cgmlst.org,
 efaecalis,cgmlst-org,Enterobacter faecalis,cgmlst.org,
 afaecium,cgmlst-org,Enterobacter faecium,cgmlst.org,
 kpneumoniae,cgmlst-org,Klebsiella pneumoniae,cgmlst.org,
